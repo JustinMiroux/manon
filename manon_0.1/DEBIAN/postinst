@@ -1,0 +1,3 @@
+chmod +x /usr/bin/manon.sh
+
+echo "done"

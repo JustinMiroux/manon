@@ -1,6 +1,5 @@
 Package: manon
-Version: 0.01
-Priority: optional
-Architecture: all
+Version: 0.1
 Maintainer: Miroux, Justin. <justin@miroux.eu>
+Architecture: all
 Description: manon...
